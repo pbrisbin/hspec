@@ -1,0 +1,20 @@
+? /home/patrick/.stack/programs/x86_64-linux/ghc-tinfo6-9.6.3/lib/ghc-9.6.3/lib/x86_64-linux-ghc-9.6.3/rts-1.0.2/include/ghcversion.h
+: hash: 9ac4cd6dcf20b31fc6e9eefbda1d924d33786bc197a79b0e6947ed7129581019
+? /home/patrick/code/pbrisbin/hspec/hspec-discover/.stack-work/dist/x86_64-linux-tinfo6/ghc-9.6.3/build/autogen/Paths_hspec_discover.hs
+: hash: 7901105f8a2c094777e547644f145b6d311767b333696ca9297900c31a4a8004
+/home/patrick/code/pbrisbin/hspec/hspec-discover/.stack-work/dist/x86_64-linux-tinfo6/ghc-9.6.3/build/autogen/cabal_macros.h:
+  hash: 48152ca432e7acb5e135bd2967fe45b6ce951d3e37623c1a2242e4048d73f5b0
+/home/patrick/code/pbrisbin/hspec/hspec-discover/hspec-discover.cabal:
+  hash: 74c689bf33d7373bac5d4ffe273fe0b034d277c30aa2a23d3790d5b365dbdf1c
+/home/patrick/code/pbrisbin/hspec/hspec-discover/package.yaml:
+  hash: b5f6c46fa8d06c9f17676aadcd6300fb64a2ca433cc77eeac8678a518b540a71
+/home/patrick/code/pbrisbin/hspec/hspec-discover/src/Test/Hspec/Discover/Config.hs:
+  hash: 1d64695296dd4c7f1ce5f8861619eeb16854434961d8dd3aea1850a43ff8e451
+/home/patrick/code/pbrisbin/hspec/hspec-discover/src/Test/Hspec/Discover/Run.hs:
+  hash: 50173e2b695326627281d2afd4485c88a470f30546b1b1398fac5268d1747f19
+/home/patrick/code/pbrisbin/hspec/hspec-discover/src/Test/Hspec/Discover/Sort.hs:
+  hash: 7b17f7d378989c88e8d36ab720d576d5063eb6e9d7395795d2e6d483e0734ee1
+/home/patrick/code/pbrisbin/hspec/version.yaml:
+  hash: 67cabf332275071abd113aa880abc725b33383306f7698b4074a43d78407acff
+/usr/include/stdc-predef.h:
+  hash: 8db4f65e62cade8ae4d9b77960ee6aee093255acc1b637e3fb37d79179733b15

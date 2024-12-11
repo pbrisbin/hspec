@@ -18,6 +18,7 @@ module Test.Hspec.Api.Format.V2 (
 -- * Register a formatter
 , registerFormatter
 , useFormatter
+, addFormatter
 , liftFormatter
 
 -- * Re-exports
@@ -42,6 +43,24 @@ registerFormatter = registerFormatter_ . liftFormatter
 -- Make a formatter available for use with @--format@ and use it by default.
 useFormatter :: (String, FormatConfig -> IO Format) -> Config -> Config
 useFormatter (liftFormatter -> formatter@(_, format)) config = (registerFormatter_ formatter config) { configFormat = Just format }
+
+addFormatter :: (String, FormatConfig -> IO Format) -> Config -> Config
+addFormatter (liftFormatter -> formatter@(_, format)) config = (registerFormatter_ formatter config) { configFormat = configFormat' }
+ where
+  configFormat' = Just
+    $ maybe format (`addFormat` format)
+    $ configFormat config
+
+  addFormat
+    :: (Latest.FormatConfig -> IO Format)
+    -> (Latest.FormatConfig -> IO Format)
+    -> Latest.FormatConfig -> IO Format
+  addFormat f1 f2 fc = do
+    formatEvent1 <- f1 fc
+    formatEvent2 <- f2 fc
+    pure $ \event -> do
+      formatEvent1 event
+      formatEvent2 event
 
 -- copy of Test.Hspec.Core.Runner.registerFormatter
 registerFormatter_ :: (String, Latest.FormatConfig -> IO Latest.Format) -> Config -> Config

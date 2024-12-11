@@ -1,0 +1,7 @@
+resolver: lts-22.24
+packages:
+  - hspec-api
+  - hspec-contrib
+  - hspec-core
+  - hspec-discover
+  - hspec-meta

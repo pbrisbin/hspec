@@ -1,0 +1,110 @@
+? /home/patrick/.stack/programs/x86_64-linux/ghc-tinfo6-9.6.5/lib/ghc-9.6.5/lib/x86_64-linux-ghc-9.6.5/rts-1.0.2/include/ghcversion.h
+: hash: f1f9f637b4bd33d899ce243cfa9143d2ec59923981b5be6a58188193ab808777
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/GetOpt/Declarative.hs:
+  hash: 5cd341ddad65dc4e2a2e4171ae5475cc6643a3ac2e3f1dd9561d9e2c2561a4d0
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/GetOpt/Declarative/Environment.hs:
+  hash: 31a0c66b354fb32dfd94d7282c87aa14fa80d97a03e0c00b56e0eab6510e8d23
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/GetOpt/Declarative/Interpret.hs:
+  hash: 0f5b3b2a0f33626ab1e6903664ab857558bcf0d6bbc2cc3529bf2e9ea4d46875
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/GetOpt/Declarative/Types.hs:
+  hash: bbf6fdba4c39a87bb74f4632a80075e0ae6bc293d3b97ccf6325f2718f1b8cdd
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/GetOpt/Declarative/Util.hs:
+  hash: 68ca15a91144103f6e16954e4c874042e76e098e50c70c1504e56aa5121d59c4
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/NonEmpty.hs:
+  hash: 96a6ce22f7d34a160c78f341a38bf66c4357beb18f2621352055163f723f14e4
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Clock.hs:
+  hash: 2939f63d59365c5ca4faf25b0335a621963e958c617a5e84bbffd0afed1730be
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Compat.hs:
+  hash: d93f08d26307bf3b2469b8909d32e2ef564ceb2d2a4a40ab5cb589e0313a2c85
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Config.hs:
+  hash: ba8d876413a4f3a5ad89d9167e7b935699d0ff28294b6688b247499967a033cf
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Config/Definition.hs:
+  hash: 72981cf7ec909f3a6d558199050a13ad37af554680ecfdf2f0cd645431932c1e
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Config/Options.hs:
+  hash: d4c825c5c3c5010236fcdba320e43c11a6647d272b7cdabaedc09accd011739f
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Example.hs:
+  hash: ccc33810d9fa0a8a311c3f2717e30c9f7da56560923d56ff2b5e89b3409c2c2d
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Example/Location.hs:
+  hash: a002b8b368227d0a84ca575b11074cf559ef455c4b8246251a6b0c0e3a830768
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/FailureReport.hs:
+  hash: 114575c7fae50d1c0a39453a22293a6ae98ea3523b512168f899a725fdc54511
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Format.hs:
+  hash: 5ad2611166e26f1500f18ae823625c19bb5562421de83324b92ce84cd4e5fb67
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Formatters.hs:
+  hash: e1cc2b4bd310b512fae666b18130d0f276243923515674009295490908ec9563
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Formatters/Diff.hs:
+  hash: d63d90066045cd534dd7eabb40bd6e82b0efebca155b927414a9eb3ef463e5b9
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Formatters/Internal.hs:
+  hash: 8469c06e0569b75a2c3f5a8099a527da224a6b8de162bd84fa985ff405b0ddea
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Formatters/Pretty.hs:
+  hash: af9acce0f1c238acd1b05b970ff8e54f9dbade7ff2956b421ceb5d61d01ef0e3
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Formatters/Pretty/Parser.hs:
+  hash: 87502b664fbf6b509e93675897d0cafa2c95e13b0647e62b9340ac263e78b832
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Formatters/Pretty/Parser/Parser.hs:
+  hash: 4ff054597e2ac4bd50ec5d9cda73fbd2c8d445f9bcfaef996d89189917794763
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Formatters/Pretty/Unicode.hs:
+  hash: 13ac87a9fc3c3db0d7f7ba6381ebce997d44a0078f4cf2ff04b4cc57a338c203
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Formatters/V1.hs:
+  hash: 92189b3f694dbbe85da429769e23cc966b698b10bef8eb0c69af15d883363562
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Formatters/V1/Free.hs:
+  hash: d60c85ba8b3c6a73edc9dadb070dd5829351bc7cc39564e2d3d857f8b360e93f
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Formatters/V1/Internal.hs:
+  hash: 04ece56e45ec41ded5a6b5b95de6d93f923bdd39a1b64dbb0cf288ff4fc9fdad
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Formatters/V1/Monad.hs:
+  hash: 4e5d0347a10e3352872288525a3d8ec3f89ba6d5d2766894cfbb9ca66bbcc4b7
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Formatters/V2.hs:
+  hash: 10af40c86dfb04b90ef1029e854c303148702b9c1c88b181427529f15baf3470
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Hooks.hs:
+  hash: 68915f6c723d4ca5fd12fce8df183f66bc554cb563ec6520357735c579c111f4
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/QuickCheck.hs:
+  hash: b6376e8699c8be8d6a191972e806798ef79be3d27a9e2709d179a21202ae05f7
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/QuickCheck/Util.hs:
+  hash: 4dfde01de0a8dd5584596bfbe7483c7263471c03843ae58374feaab011f537fe
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Runner.hs:
+  hash: db5919c822721e225de857c8dc8cab224e84d3a8dd920ed52129e972e8ee3371
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Runner/Eval.hs:
+  hash: ee8819000a8584de542c1923a9ab50b5518e30ce9f0db8507024f92c6562d669
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Runner/JobQueue.hs:
+  hash: f7e9a385069e4769a863e675c2cf5cab5df22a66afe883cc15041688c305ac61
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Runner/PrintSlowSpecItems.hs:
+  hash: c82e4d198695128a857a6df1dc3a1df7182c12c6143044d6976a7f702ad6ad69
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Runner/Result.hs:
+  hash: 82d50909b202b627d629104c9c9a3b201044515bf04736ad8dfd9b888be929a6
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Shuffle.hs:
+  hash: 85b5c5d00ddab0064025d8e1743a38fbb39a4708769f3c8c32b365e048252452
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Spec.hs:
+  hash: 8bc2258761ab5dbbe8657163b47168d5ff5c092ed141b8a113ea661d1381a6b3
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Spec/Monad.hs:
+  hash: 38f04e333c83a05633f5c3549dcb53f760d507ca4fbb7b1e6f468414b186f0f6
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Timer.hs:
+  hash: 41e524d3c1213f702c130957389ec46bf40421ca5a5a6301aadd6c2b14cae60a
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Tree.hs:
+  hash: 8ada93736da0fcd221ae0aec4e7f3dc122bcc4da85479df94c19be6ee67959e3
+/home/patrick/code/pbrisbin/hspec/hspec-core/src/Test/Hspec/Core/Util.hs:
+  hash: 2cf407a52b088671e5a7b09fdb6622b25fa315dbf9887918fcda1f81c8c1938c
+/home/patrick/code/pbrisbin/hspec/hspec-core/vendor/Control/Concurrent/Async.hs:
+  hash: aaccf392553f193108b21734543695e3fb3279e8230189bb698c6c77182bde56
+/home/patrick/code/pbrisbin/hspec/hspec-core/vendor/Data/Algorithm/Diff.hs:
+  hash: ac6712fc8459a58c562ff26b6df3dc9d4a5adb87d4e7d60822d072fa444f79a3
+/home/patrick/code/pbrisbin/hspec/hspec-meta/.stack-work/dist/x86_64-linux-tinfo6/ghc-9.6.5/build/autogen/Paths_hspec_meta.hs:
+  hash: 4de39f6644e3b7dc463545e16631cb0e13ba8a0c7fb24329ccd4a099f30e8e46
+/home/patrick/code/pbrisbin/hspec/hspec-meta/.stack-work/dist/x86_64-linux-tinfo6/ghc-9.6.5/build/autogen/cabal_macros.h:
+  hash: 4f89152f725c0c54e937bffc5e003a319fd5e3b5b826b833ad9a2c46c0437c9c
+/home/patrick/code/pbrisbin/hspec/hspec-meta/hspec-meta.cabal:
+  hash: c4e7036a38366dbe6928fbf57f06e524f4446c8e703f9be2cc8f6382fac4b0cf
+/home/patrick/code/pbrisbin/hspec/hspec-meta/package.yaml:
+  hash: 2db3751b1d16c16728e155c6f656fce9667654afc7367b718a3645c83ca96f39
+/home/patrick/code/pbrisbin/hspec/hspec-meta/src/Test/Hspec/Meta.hs:
+  hash: fa7d3de805e04a14f07366bf4632045b0aff72ee5e69b90c1e591aaf9c9a8fab
+/home/patrick/code/pbrisbin/hspec/src/Test/Hspec.hs:
+  hash: a9c3a905a32b9bed6f680b96280058f5c88733d0e59cdced08721e5742a6d3de
+/home/patrick/code/pbrisbin/hspec/src/Test/Hspec/Discover.hs:
+  hash: 9dbe924242456b2010f864375a9e02d522d49aa09d6a4f316152411042910da9
+/home/patrick/code/pbrisbin/hspec/src/Test/Hspec/Formatters.hs:
+  hash: 0e2b1e47ae4eea248b40880b7af8f515b86c4f0cc47df0e438eedba51df07ec3
+/home/patrick/code/pbrisbin/hspec/src/Test/Hspec/QuickCheck.hs:
+  hash: 204462703e00e4ed8b6d03e493d583ec83599ce9826ad346a4203c3e79687724
+/home/patrick/code/pbrisbin/hspec/src/Test/Hspec/Runner.hs:
+  hash: 546c8bc32cf3405967082df3279539017842ccb79a376c15fb3635a529e9ecae
+/usr/include/stdc-predef.h:
+  hash: 8db4f65e62cade8ae4d9b77960ee6aee093255acc1b637e3fb37d79179733b15

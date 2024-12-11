@@ -1,0 +1,26 @@
+? /home/patrick/.stack/programs/x86_64-linux/ghc-tinfo6-9.6.5/lib/ghc-9.6.5/lib/x86_64-linux-ghc-9.6.5/rts-1.0.2/include/ghcversion.h
+: hash: f1f9f637b4bd33d899ce243cfa9143d2ec59923981b5be6a58188193ab808777
+/home/patrick/code/pbrisbin/hspec/hspec-api/.stack-work/dist/x86_64-linux-tinfo6/ghc-9.6.5/build/spec/autogen/Paths_hspec_api.hs:
+  hash: be8f8bb002a50f2c87e68c82fd2e02ad1bc578ddd1152ca275c0089b39d105e0
+/home/patrick/code/pbrisbin/hspec/hspec-api/.stack-work/dist/x86_64-linux-tinfo6/ghc-9.6.5/build/spec/autogen/cabal_macros.h:
+  hash: 1eb441ddbf17e0c863e1ef2bd60af8662c4eef05fe25d3af22a73ec669a586de
+/home/patrick/code/pbrisbin/hspec/hspec-api/hspec-api.cabal:
+  hash: b20e2a4583f3f01cf31bfdb9b90b2d478a3e25a88cea05ea14cdade1c58125c7
+/home/patrick/code/pbrisbin/hspec/hspec-api/package.yaml:
+  hash: 3b6da9ca48ad1fc2fe3ce987fc830c74f89a0b6416dbdc98b89e2894c6eae199
+/home/patrick/code/pbrisbin/hspec/hspec-api/test/Spec.hs:
+  hash: 2fbd14b119a40eaca54f6255686c7cfbe8ff26a9c18d79ec474a61225232d324
+/home/patrick/code/pbrisbin/hspec/hspec-api/test/Test/Hspec/Api/Format/V1Spec.hs:
+  hash: e50b818912f0365bea1f731629331c6197baf6e51a0e901f651649fd5f42a194
+/home/patrick/code/pbrisbin/hspec/hspec-api/test/Test/Hspec/Api/Format/V2Spec.hs:
+  hash: e9f5e5818d526105befdba65109953566331787c79e0a01e17b23284d678430e
+/home/patrick/code/pbrisbin/hspec/hspec-api/test/Test/Hspec/Api/Formatters/V1Spec.hs:
+  hash: acf6dec7b0bcc196d7de6a9214f931eccb75aa96f022f0dfa5f3cb2be115e0fb
+/home/patrick/code/pbrisbin/hspec/hspec-api/test/Test/Hspec/Api/Formatters/V2Spec.hs:
+  hash: a06e398ab5702fc906010777af78ae51e97602b51da791da1c5e666fa12ec055
+/home/patrick/code/pbrisbin/hspec/hspec-api/test/Test/Hspec/Api/Formatters/V3Spec.hs:
+  hash: eb8d6a4aa46c6c6737f0ba4baa8cb0e9074a4b787f25e0543e490de07cafb3e4
+/home/patrick/code/pbrisbin/hspec/version.yaml:
+  hash: 67cabf332275071abd113aa880abc725b33383306f7698b4074a43d78407acff
+/usr/include/stdc-predef.h:
+  hash: 8db4f65e62cade8ae4d9b77960ee6aee093255acc1b637e3fb37d79179733b15

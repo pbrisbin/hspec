@@ -1,0 +1,18 @@
+? /home/patrick/.stack/programs/x86_64-linux/ghc-tinfo6-9.6.5/lib/ghc-9.6.5/lib/x86_64-linux-ghc-9.6.5/rts-1.0.2/include/ghcversion.h
+: hash: f1f9f637b4bd33d899ce243cfa9143d2ec59923981b5be6a58188193ab808777
+? /home/patrick/code/pbrisbin/hspec/hspec-contrib/.stack-work/dist/x86_64-linux-tinfo6/ghc-9.6.5/build/autogen/Paths_hspec_contrib.hs
+: hash: d2e5c5b41b20c6d42049b642ab02cd3bac8741b4d5081b82df18edc762f0fb28
+/home/patrick/code/pbrisbin/hspec/hspec-contrib/.stack-work/dist/x86_64-linux-tinfo6/ghc-9.6.5/build/autogen/cabal_macros.h:
+  hash: e21d68d21d4251949e5c46c86ec4c5fee007f6880d61fce878b648a0fd4aedb5
+/home/patrick/code/pbrisbin/hspec/hspec-contrib/hspec-contrib.cabal:
+  hash: d62cddfb38468d88df3b0bf4a02abf41c209d1a2fa0125db60951633dbf7f6fe
+/home/patrick/code/pbrisbin/hspec/hspec-contrib/package.yaml:
+  hash: fb667bb9ffe960d4d6641dee7cdac3967561eff30635df98b59471fffd5d3081
+/home/patrick/code/pbrisbin/hspec/hspec-contrib/src/Test/Hspec/Contrib/HUnit.hs:
+  hash: 3a0486b43db288ec71c32ad04a29b2a58a2361609d54371ed558b86058cae964
+/home/patrick/code/pbrisbin/hspec/hspec-contrib/src/Test/Hspec/Contrib/Mocks/V1.hs:
+  hash: 4dc6c6a0340394eab5ecf390554ddc34a107e32fe2a38f671d398ba5292105b0
+/home/patrick/code/pbrisbin/hspec/hspec-contrib/src/Test/Hspec/Contrib/Retry.hs:
+  hash: 66ccd3d018ec2f8ea0e93087bdc8754883ca6e1ebdf53ba37dbfe43e8b22704c
+/usr/include/stdc-predef.h:
+  hash: 8db4f65e62cade8ae4d9b77960ee6aee093255acc1b637e3fb37d79179733b15

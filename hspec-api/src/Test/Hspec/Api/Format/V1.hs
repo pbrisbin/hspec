@@ -18,6 +18,7 @@ module Test.Hspec.Api.Format.V1 (
 -- * Register a formatter
 , registerFormatter
 , useFormatter
+, addFormatter
 , liftFormatter
 
 -- * Re-exports
@@ -31,6 +32,7 @@ import qualified Test.Hspec.Api.Format.V2 as V2
 import           Test.Hspec.Api.Format.V2 hiding (
     registerFormatter
   , useFormatter
+  , addFormatter
   , liftFormatter
   , FormatConfig(..)
   , Item(..)
@@ -53,6 +55,9 @@ registerFormatter = V2.registerFormatter . liftFormatterToV2
 -- Make a formatter available for use with @--format@ and use it by default.
 useFormatter :: (String, FormatConfig -> IO Format) -> Config -> Config
 useFormatter = V2.useFormatter . liftFormatterToV2
+
+addFormatter :: (String, FormatConfig -> IO Format) -> Config -> Config
+addFormatter = V2.addFormatter . liftFormatterToV2
 
 -- | Make a formatter compatible with types from "Test.Hspec.Core.Format".
 liftFormatter :: (String, FormatConfig -> IO Format) -> (String, Latest.FormatConfig -> IO Latest.Format)
